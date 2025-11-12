@@ -5,5 +5,6 @@ The user if first asked how many customeres visited the cafe . For each customer
    2. For each item, it accepts the item number and quantity.
    3. The customer's total bill is calculated by multiplying the item price with the quantity ordered .
    4. The total revenue and total number of items sold are updated as each order is processed.
+
 Once all the customer's orderd are completed , the program loops through the total_quantity[] array to find the most ordered item ( highest quantity sold ) and the least ordered item ( lowest non -zero quantity sold ).
 Finally , it displays a cafe summary showing total revenue , total items sold , and which items were the most and least ordered .
